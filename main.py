@@ -7,3 +7,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     demo.name("sagar")
     demo.surname("sagar","thorat")
+    demo.name("kiran")
+    demo.surname("kiran","thorat")
