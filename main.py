@@ -9,3 +9,4 @@ if __name__ == '__main__':
     demo.surname("sagar","thorat")
     demo.name("kiran")
     demo.surname("kiran","thorat")
+    demo.welcome()
